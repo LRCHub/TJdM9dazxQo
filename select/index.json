@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Love Come Down (12\" Version)",
+  "base_artist": "Evelyn \"Champagne\" King",
+  "createdAt": "2026-02-22T12:34:21.703637Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Come Down",
+      "artist": "Kalafina",
+      "has_synced": true,
+      "path": "select/01_Love_Come_Down_Kalafina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Come Down",
+      "artist": "Evelyn \"Champagne\" King",
+      "has_synced": true,
+      "path": "select/02_Love_Come_Down_Evelyn__Champagne__King.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Come Down",
+      "artist": "James Ingram",
+      "has_synced": false,
+      "path": "select/03_Love_Come_Down_James_Ingram.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Come Down (vocal)",
+      "artist": "Evelyn \"Champagne\" King",
+      "has_synced": false,
+      "path": "select/04_Love_Come_Down_(vocal)_Evelyn__Champagne__King.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Come Down (Radio Edit)",
+      "artist": "Bodybangers feat. TomE & Jaicko Lawrence",
+      "has_synced": false,
+      "path": "select/05_Love_Come_Down_(Radio_Edit)_Bodybangers_feat._TomE_&_Jaicko_Lawrence.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love Come Down",
+      "artist": "Evelyn “Champagne” King",
+      "has_synced": true,
+      "path": "select/06_Love_Come_Down_Evelyn_“Champagne”_King.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Come Down",
+      "artist": "The Saturdays",
+      "has_synced": true,
+      "path": "select/07_Love_Come_Down_The_Saturdays.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love Come Down",
+      "artist": "Barry Biggs",
+      "has_synced": false,
+      "path": "select/08_Love_Come_Down_Barry_Biggs.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Come Let Me Make Your Love Come Down (Album Version)",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/09_Come_Let_Me_Make_Your_Love_Come_Down_(Album_Version)_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love Come Down",
+      "artist": "Jon Gibson",
+      "has_synced": false,
+      "path": "select/10_Love_Come_Down_Jon_Gibson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love Come Down - 12\" Version [Remastered]",
+      "artist": "Evelyn \"Champagne\" King",
+      "has_synced": true,
+      "path": "select/11_Love_Come_Down_-_12__Version_[Remastered]_Evelyn__Champagne__King.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love Come Down (12\" Version) - Remastered",
+      "artist": "Evelyn \"Champagne\" King",
+      "has_synced": true,
+      "path": "select/12_Love_Come_Down_(12__Version)_-_Remastered_Evelyn__Champagne__King.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Come Down",
+      "artist": "Fabolous",
+      "has_synced": false,
+      "path": "select/13_Love_Come_Down_Fabolous.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Let Your Love Come Down",
+      "artist": "Steve Winwood",
+      "has_synced": true,
+      "path": "select/14_Let_Your_Love_Come_Down_Steve_Winwood.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Come Let Me Make Your Love Come Down",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/15_Come_Let_Me_Make_Your_Love_Come_Down_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Come Down",
+      "artist": "Evelyn \"Champagne\" King",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Come_Down_Evelyn__Champagne__King.txt"
+    }
+  ]
+}
